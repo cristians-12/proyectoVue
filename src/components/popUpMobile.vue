@@ -6,7 +6,7 @@ import yt from "../assets/img/img3.png";
 </script>
 <template>
   <div
-    class="fixed top-16 sm:top-20 right-0 z-20 w-44 pt-5 px-3 pb-3 bg-[black] rounded-lg text-white font-bold"
+    class="fixed top-16 sm:top-20 right-0 z-20 w-44 pt-5 px-3 pb-3 bg-[black] rounded-lg text-white font-bold flex flex-col justify-center"
   >
     <div class="flex items-center gap-5">
       <figure
@@ -32,5 +32,6 @@ import yt from "../assets/img/img3.png";
       </figure>
       <figcaption>YouTube</figcaption>
     </div>
+    <router-link to="/" class="w-[100%] text-center mt-2">REGISTRATE</router-link>
   </div>
 </template>

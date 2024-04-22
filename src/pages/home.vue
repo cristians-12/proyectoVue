@@ -106,10 +106,10 @@ const handleClick = () => {
             <img
               :src="figuras2"
               alt="figura2"
-              class="md:w-[10%] sm:top-16 sm:w-[10%] sm:left-3 absolute md:top-14 top-10 left-5"
+              class=" sm:top-16 sm:w-[10%] w-[10%] sm:left-3 absolute md:top-14 top-14 left-5"
             />
             <p
-              class="text-white sm:text-[4vw] md:text-[2vw] absolute md:top-14 top-12 left-20 md:w-[30vw] lg:text-[1.45vw]"
+              class="text-white sm:text-[4vw] md:text-[2vw] absolute md:top-14 top-14 left-20 md:w-[30vw] text-[4vw] lg:text-[1.45vw]"
             >
               LOS <b class="font-extrabold">PRIMEROS 100</b> INSCRITOS SERAN
               <b class="font-extrabold">GANADORES</b> DE
