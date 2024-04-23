@@ -63,7 +63,7 @@ const handleClick = () => {
         class="bg-black flex lg:flex-row flex-col px-5 md:px-36 lg:h-[30vh] items-center text-white md:mb-20"
       >
         <img
-          class="absolute md:bottom-[38rem] bottom-[35rem] lg:bottom-[21rem] md:w-[45%] lg:w-[35%] w-[60%]"
+          class="absolute md:bottom-[38rem] bottom-[35rem] lg:bottom-[18rem] md:w-[45%] lg:w-[35%] w-[60%]"
           :src="text"
           alt="texto"
         />
