@@ -5,7 +5,7 @@ import yt from "../assets/img/yt.png";
 </script>
 
 <template>
-  <footer class="bg-[#84754E] h-[30vh] md:overflow-auto overflow-scroll relative z-10 px-20 py-5 flex gap-5">
+  <footer class="bg-[#84754E] h-[30vh] md:overflow-auto overflow-scroll relative z-10 px-20 py-5 sm:flex gap-5">
     <p class="text-white text-[10px] text-wrap">
       Inscripciones abiertas del jueves 9 de marzo del 2023 al martes 9 de mayo
       del 2023 o hasta que se inscriban 100 personas, lo primero que ocurra.
