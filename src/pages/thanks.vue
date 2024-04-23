@@ -15,7 +15,7 @@ import text from "../assets/img/text3.png";
   <main>
     <div class="relative flex justify-center items-center h-screen md:h-auto">
       <div>
-        <img :src="bg" class="w-screen h-screen md:h-[100%]  object-fill" alt="" />
+        <img :src="bg" class="w-screen h-screen md:h-[100%]  object-none" alt="" />
       </div>
       <div
         class="text-white absolute top-56 z-10 text-center flex flex-col items-center"
