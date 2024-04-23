@@ -67,7 +67,7 @@ const handleClick = () => {
           :src="text"
           alt="texto"
         />
-        <p class="lg:mt-5 lg:w-[45%] text-xl text-justify self-center">
+        <p class="lg:mt-1 lg:w-[45%] text-xl text-justify self-center">
           Este año estamos rindiendo tributo a nuestra marca
           <b
             >Mack la cual lleva 100 años rodando por las carreteras de
