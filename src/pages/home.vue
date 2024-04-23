@@ -121,7 +121,7 @@ const handleClick = () => {
               <p>*Una gorra emblemática Mack.</p>
             </div>
             <div class="flex gap-3 mt-5">
-              <figure class="md:w-[25%] xl:w-[10%] sm:w-[10%] w-[15%]"><img :src="figura4" alt="" /></figure>
+              <figure class="md:w-[25%] xl:w-[10%] sm:w-[10%] w-[20%]"><img :src="figura4" alt="" /></figure>
               <p>
                 **<b>25% de descuento en repuestos</b> instalados en taller el
                 día que reclames tu premio o
