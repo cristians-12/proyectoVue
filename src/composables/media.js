@@ -1,7 +1,7 @@
 import { ref, watchEffect } from "vue";
 
 export const useMedia = (query) => {
-   const matches = ref(false);
+   const matches = ref(true);
 
    watchEffect((onInvalidate) => {
       const media = window.matchMedia(query);
